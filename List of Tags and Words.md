@@ -25,8 +25,8 @@
 | USCase::lokál | locative |
 | USCase::inštrumentál | instrumental |
 | USCase::mužský_rod  | masculine gender |
-| USCase::ženský rod | feminine gender |
-| USCase::stredný rod | neuter gender |
+| USCase::ženský_rod | feminine gender |
+| USCase::stredný_rod | neuter gender |
 | USCase::osoba | person |
 | USCase::zviera | animal |
 | USCase::objekt | object |
