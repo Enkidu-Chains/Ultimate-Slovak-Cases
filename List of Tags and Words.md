@@ -32,4 +32,3 @@
 | USCase::objekt | object |
 | USCase::singulár | singular |
 | USCase::plurál | plural |
-| USCase:: |  |

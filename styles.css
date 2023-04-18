@@ -55,12 +55,10 @@ input#typeans {
     color: rgb(209, 199, 158);
 }
 
-
 .have_fun {
     color: rgb(113, 171, 194);
     font-size: 2em;
 }
-
 
 orientation_examples,
 .orientation_examples {
@@ -68,12 +66,10 @@ orientation_examples,
     text-align: left;
 }
 
-
 .info_cloze {
     /*  the [...OK...] */
     color: rgb(210, 142, 2);
 }
-
 
 .hint {
     /*  hints on the front, e.g. (on/ona/ono) or (robiť) */
@@ -168,7 +164,7 @@ orientation_examples,
     color: rgb(210, 142, 2);
 }
 
-.notes_sl_inf {
+.notes_sl_nom {
     /*  the Slovak nomintive of the current word, when mentioned in the notes*/
     font-style: italic;
     color: rgb(209, 199, 158);
@@ -242,39 +238,39 @@ orientation_examples,
     font-style: italic;
 }
 
-.gender .masculine {
+.masculine {
     color: rgb(88, 157, 246);
 }
 
-.gender .feminine {
+.feminine {
     color: rgb(255, 170, 170);
 }
 
-.gender .neuter {
+.neuter {
     color: rgb(203, 209, 209);
 }
 
-.case .nominative{
+.nominative{
     color: rgb(255, 216, 183);
 }
 
-.case .genitive {
+.genitive {
     color: rgb(67, 134, 0);
 }
 
-.case .dative {
+.dative {
     color: rgb(31, 139, 210);
 }
 
-.case .accusative {
+.accusative {
     color: rgb(255, 0, 128);
 }
 
-.case .locative {
+.locative {
     color: rgb(128, 128, 255);
 }
 
-.case .instrumental {
+.instrumental {
     color: rgb(255, 128, 64);
 }
 /* UNUSED COLORS
