@@ -1,6 +1,28 @@
 {
-  "Nouns (ex)": {
-    "chlap": {
+  "Nouns (ex)": [
+    {
+      "word": "chlap",
+      "nominative": "chlap",
+      "genitive": "chlapa",
+      "dative": "chlapovi",
+      "accusative": "chlapa",
+      "locative": "chlapovi",
+      "instrumental": "chlapom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "category": "people",
+      "number": "singular",
+      "similar": "chlapec, spolužiak, otec, učiteľ, syn, dedo, brat",
+      "general_note": "Living masculine nouns ending in a consonant or <span class=\"note_spell\">-o</span>.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "chlap",
       "nominative": "chlapi",
       "genitive": "chlapov",
       "dative": "chlapom",
@@ -20,7 +42,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "hrdina": {
+    {
+      "word": "hrdina",
+      "nominative": "hrdina",
+      "genitive": "hrdinu",
+      "dative": "hrdinovi",
+      "accusative": "hrdinu",
+      "locative": "hrdinovi",
+      "instrumental": "hrdinom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "category": "people",
+      "number": "singular",
+      "similar": "sudca, sluha, hokejista, huslista",
+      "general_note": "Living masculine nouns ending in <span class=\"note_spell\">-a</span>.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "hrdina",
       "nominative": "hrdinovia",
       "genitive": "hrdinov",
       "dative": "hrdinom",
@@ -40,7 +84,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "dub": {
+    {
+      "word": "dub",
+      "nominative": "dub",
+      "genitive": "duba",
+      "dative": "dubu",
+      "accusative": "dub",
+      "locative": "dube",
+      "instrumental": "dubom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "category": "plants",
+      "number": "singular",
+      "similar": "dom, autobus, pondelok",
+      "general_note": "Non-living masculine nouns ending in a hard or bilabial consonant.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "dub",
       "nominative": "duby",
       "genitive": "dubov",
       "dative": "dubom",
@@ -60,7 +126,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "stroj": {
+    {
+      "word": "stroj",
+      "nominative": "stroj",
+      "genitive": "stroja",
+      "dative": "stroju",
+      "accusative": "stroj",
+      "locative": "stroji",
+      "instrumental": "strojom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "category": "things",
+      "number": "singular",
+      "similar": "kôš, oheň, čaj",
+      "general_note": "Non-living masculine nouns ending in a soft consonant.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "stroj",
       "nominative": "stroje",
       "genitive": "strojov",
       "dative": "strojom",
@@ -80,7 +168,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "pes": {
+    {
+      "word": "pes",
+      "nominative": "pes",
+      "genitive": "psa",
+      "dative": "psovi",
+      "accusative": "psa",
+      "locative": "psovi",
+      "instrumental": "psom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "category": "animals",
+      "number": "singular",
+      "similar": "slon, vlk, lev",
+      "general_note": "Animal nouns ending in a hard or bilabial consonant.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "pes",
       "nominative": "psi | psy",
       "genitive": "psov",
       "dative": "psom",
@@ -100,7 +210,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "medveď": {
+    {
+      "word": "medveď",
+      "nominative": "medveď",
+      "genitive": "medveďa",
+      "dative": "medveďovi",
+      "accusative": "medveďa",
+      "locative": "medveďovi",
+      "instrumental": "medveďom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "category": "animals",
+      "number": "singular",
+      "similar": "kôň, mravec",
+      "general_note": "Animal nouns ending in a soft consonant.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "medveď",
       "nominative": "medvedi | medvede",
       "genitive": "medveďov",
       "dative": "medveďom",
@@ -120,7 +252,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "kuli": {
+    {
+      "word": "kuli",
+      "nominative": "kuli",
+      "genitive": "kuliho",
+      "dative": "kulimu",
+      "accusative": "kuliho",
+      "locative": "kulim",
+      "instrumental": "kulim",
+      "word_class": "noun",
+      "gender": "masculine",
+      "category": "things",
+      "number": "singular",
+      "similar": "pony, grizly, abbé",
+      "general_note": "Masculine nouns that are foreign loanwords, masculine names and surnames ending with the vowels i, y, í, e, é, ä, ű, ö, ő",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "kuli",
       "nominative": "kuliovia",
       "genitive": "kuliov",
       "dative": "kuliom",
@@ -140,7 +294,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "žena": {
+    {
+      "word": "žena",
+      "nominative": "žena",
+      "genitive": "ženy",
+      "dative": "žene",
+      "accusative": "ženu",
+      "locative": "žene",
+      "instrumental": "ženou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "category": "people",
+      "number": "singular",
+      "similar": "mama, dcéra, vnučka",
+      "general_note": "Feminine nouns ending in <span class=\"note_spell\">-a</span> after a hard or bilabial consonant.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "žena",
       "nominative": "ženy",
       "genitive": "žien | žení",
       "dative": "ženám",
@@ -160,7 +336,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "ulica": {
+    {
+      "word": "ulica",
+      "nominative": "ulica",
+      "genitive": "ulice",
+      "dative": "ulici",
+      "accusative": "ulicu",
+      "locative": "ulici",
+      "instrumental": "ulicou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "category": "things",
+      "number": "singular",
+      "similar": "schôdza, tabuľa, ruža",
+      "general_note": "Feminine nouns ending in <span class=\"note_spell\">-a</span> after a soft consonant.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "ulica",
       "nominative": "ulice",
       "genitive": "ulíc | ulicí",
       "dative": "uliciam",
@@ -180,7 +378,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "dlaň": {
+    {
+      "word": "dlaň",
+      "nominative": "dlaň",
+      "genitive": "dlane",
+      "dative": "dlani",
+      "accusative": "dlaň",
+      "locative": "dlani",
+      "instrumental": "dlaňou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "category": "things",
+      "number": "singular",
+      "similar": "loď, reportáž, posteľ",
+      "general_note": "Feminine nouns ending in a consonant that in nominative plural ends in <span class=\"note_spell\">-e</span>.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "dlaň",
       "nominative": "dlane",
       "genitive": "dlaní",
       "dative": "dlaniam",
@@ -200,7 +420,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "kosť": {
+    {
+      "word": "kosť",
+      "nominative": "kosť",
+      "genitive": "kosti",
+      "dative": "kosti",
+      "accusative": "kosť",
+      "locative": "kosti",
+      "instrumental": "kosťou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "category": "things",
+      "number": "singular",
+      "similar": "noc, step, radosť",
+      "general_note": "Feminine nouns ending in a consonant that in nominative plural ends in <span class=\"note_spell\">-i</span>.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "kosť",
       "nominative": "kosti",
       "genitive": "kostí",
       "dative": "kostiam",
@@ -220,7 +462,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "gazdiná": {
+    {
+      "word": "gazdiná",
+      "nominative": "gazdiná",
+      "genitive": "gazdinej",
+      "dative": "gazdinej",
+      "accusative": "gazdinú",
+      "locative": "gazdinej",
+      "instrumental": "gazdinou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "category": "people",
+      "number": "singular",
+      "similar": "princezná, kráľovná, cisárovná",
+      "general_note": "Feminine titles, mostly from the feudal period.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "gazdiná",
       "nominative": "gazdiné",
       "genitive": "gazdín",
       "dative": "gazdinám",
@@ -240,7 +504,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "idea": {
+    {
+      "word": "idea",
+      "nominative": "idea",
+      "genitive": "idey",
+      "dative": "idei",
+      "accusative": "ideu",
+      "locative": "idei",
+      "instrumental": "ideou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "category": "things",
+      "number": "singular",
+      "similar": "orchidea, aloa",
+      "general_note": "Feminine nouns that are foreign loanwords ending in <span class=\"note_spell\">-ea</span>, <span class=\"note_spell\">-oa</span>, <span class=\"note_spell\">-ua</span>.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "idea",
       "nominative": "idey",
       "genitive": "ideí",
       "dative": "ideám",
@@ -260,7 +546,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "mať": {
+    {
+      "word": "mať",
+      "nominative": "mať",
+      "genitive": "matere",
+      "dative": "materi",
+      "accusative": "mať",
+      "locative": "materi",
+      "instrumental": "materou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "category": "people",
+      "number": "singular",
+      "similar": null,
+      "general_note": "The word <span class=\"note_sl_word\">mať</span> has its own declesions.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "mať",
       "nominative": "matere",
       "genitive": "materí",
       "dative": "materiam",
@@ -280,7 +588,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "pani": {
+    {
+      "word": "pani",
+      "nominative": "pani",
+      "genitive": "panej",
+      "dative": "panej",
+      "accusative": "paniu",
+      "locative": "panej",
+      "instrumental": "paňou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "category": "people",
+      "number": "singular",
+      "similar": null,
+      "general_note": "The word <span class=\"note_sl_word\">pani</span> has its own declesions (when combined with a proper noun it is not declined).",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "pani",
       "nominative": "panie",
       "genitive": "paní",
       "dative": "paniam",
@@ -300,7 +630,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "mesto": {
+    {
+      "word": "mesto",
+      "nominative": "mesto",
+      "genitive": "mesta",
+      "dative": "mestu",
+      "accusative": "mesto",
+      "locative": "meste",
+      "instrumental": "mestom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "category": "things",
+      "number": "singular",
+      "similar": "auto, epiteton, múzeum",
+      "general_note": "Neuter nouns ending in <span class=\"note_spell\">-o</span> and foreign loanwords ending in <span class=\"note_spell\">-on</span> or <span class=\"note_spell\">-um</span>.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "mesto",
       "nominative": "mestá",
       "genitive": "miest",
       "dative": "mestám",
@@ -320,7 +672,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "srdce": {
+    {
+      "word": "srdce",
+      "nominative": "srdce",
+      "genitive": "srdca",
+      "dative": "srdcu",
+      "accusative": "srdce",
+      "locative": "srdci",
+      "instrumental": "srdcom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "category": "things",
+      "number": "singular",
+      "similar": "vajce, more, pole",
+      "general_note": "Neuter nouns ending in <span class=\"note_spell\">-e</span>.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "srdce",
       "nominative": "srdcia",
       "genitive": "sŕdc",
       "dative": "srdciam",
@@ -340,7 +714,29 @@
       "locative_note": null,
       "instrumental_note": "<span class=\"notes_sl_form\">Srdcami</span> is modern form | <span class=\"notes_sl_form\">srdciami</span> is archaic form."
     },
-    "vysvedčenie": {
+    {
+      "word": "vysvedčenie",
+      "nominative": "vysvedčenie",
+      "genitive": "vysvedčenia",
+      "dative": "vysvedčeniu",
+      "accusative": "vysvedčenie",
+      "locative": "vysvedčení",
+      "instrumental": "vysvedčením",
+      "word_class": "noun",
+      "gender": "neuter",
+      "category": "things",
+      "number": "singular",
+      "similar": "lístie, stretnutie, umenie",
+      "general_note": "Neuter nouns ending in <span class=\"note_spell\">-ie</span> (the suffixes are always long, the rhythmic rule is not observed.)",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "vysvedčenie",
       "nominative": "vysvedčenia",
       "genitive": "vysvedčení",
       "dative": "vysvedčeniam",
@@ -360,7 +756,29 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "dievča": {
+    {
+      "word": "dievča",
+      "nominative": "dievča",
+      "genitive": "dievčaťa",
+      "dative": "dievčaťu",
+      "accusative": "dievča",
+      "locative": "dievčati",
+      "instrumental": "dievčaťom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "category": "people",
+      "number": "singular",
+      "similar": "zviera, páža, knieža",
+      "general_note": "Neuter nouns ending in <span class=\"note_spell\">-a </span>or <span class=\"note_spell\">-ä</span>:",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "dievča",
       "nominative": "dievčatá | dievčence",
       "genitive": "dievčat | dievčeniec",
       "dative": "dievčatám | dievčencom",
@@ -380,7 +798,29 @@
       "locative_note": "The forms <span class=\"note_sl_form\">dievčatách</span> and <span class=\"note_sl_from\">dievčencoch</span> are equal.",
       "instrumental_note": "The forms <span class=\"note_sl_form\">dievčatami</span> and <span class=\"note_sl_from\">dievčencami</span> are equal."
     },
-    "dieťa": {
+    {
+      "word": "dieťa",
+      "nominative": "dieťa",
+      "genitive": "dieťaťa",
+      "dative": "dieťaťu",
+      "accusative": "dieťa",
+      "locative": "dieťati",
+      "instrumental": "dieťaťom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "category": "people",
+      "number": "singular",
+      "similar": null,
+      "general_note": "The word <span class=\"note_sl_word\">dieťa</span> has its own declesions.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "dieťa",
       "nominative": "deti",
       "genitive": "detí",
       "dative": "deťom",
@@ -400,9 +840,10 @@
       "locative_note": null,
       "instrumental_note": null
     }
-  },
-  "Pronouns (ex)": {
-    "ja": {
+  ],
+  "Pronouns (ex)": [
+    {
+      "word": "ja",
       "nominative": "ja",
       "genitive": "mňa",
       "dative": "mne",
@@ -428,7 +869,8 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "my": {
+    {
+      "word": "my",
       "nominative": "my",
       "genitive": "nás",
       "dative": "nám",
@@ -454,7 +896,8 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "ty": {
+    {
+      "word": "ty",
       "nominative": "ty",
       "genitive": "teba",
       "dative": "tebe",
@@ -480,7 +923,8 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "vy": {
+    {
+      "word": "vy",
       "nominative": "vy",
       "genitive": "vás",
       "dative": "vám",
@@ -506,7 +950,8 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "on": {
+    {
+      "word": "on",
       "nominative": "on",
       "genitive": "jeho",
       "dative": "jemu",
@@ -532,7 +977,8 @@
       "dative_with_prep_note": "<span class=\"notes_sl_form\">Neho | ho</span> are equal.",
       "accusative_with_prep_note": "<span class=\"notes_sl_form\">Neho | ho</span> are separate words | <span class=\"notes_sl_form\">-ňho | ň</span> are suffixes.<br>The form <span class=\"notes_sl_form\">neho | -ňho</span> is for living | <span class=\"notes_sl_form\">ho | -ň</span> if for non-living."
     },
-    "ona": {
+    {
+      "word": "ona",
       "nominative": "ona",
       "genitive": "jej",
       "dative": "jej",
@@ -558,7 +1004,8 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "ono": {
+    {
+      "word": "ono",
       "nominative": "ono",
       "genitive": "jeho",
       "dative": "jemu",
@@ -584,7 +1031,8 @@
       "dative_with_prep_note": "<span class=\"notes_sl_form\">Neho | ho</span> are equal.",
       "accusative_with_prep_note": "<span class=\"notes_sl_form\">Neho</span> is a separate word | <span class=\"notes_sl_form\">-ňho | ň</span> are suffixes."
     },
-    "oni_ony": {
+    {
+      "word": "oni_ony",
       "nominative": "oni | ony",
       "genitive": "ich",
       "dative": "im",
@@ -610,7 +1058,89 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": "The form <span class=\"notes_sl_form\">nich</span> is for masculine living | <span class=\"notes_sl_form\">ne</span> if for non-living."
     },
-    "môj": {
+    {
+      "word": "môj",
+      "nominative": "môj",
+      "genitive": "môjho",
+      "dative": "môjmu",
+      "accusative": "môjho | môj",
+      "locative": "mojom",
+      "instrumental": "mojím",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "maculine",
+      "category": "personal, possessive",
+      "number": "singular",
+      "similar": "tvoj, náš, váš, svoj",
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": "The form <span class=\"notes_sl_form\">mojho</span> is for living | <span class=\"notes_sl_form\">moj</span> if for non-living.",
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "môj",
+      "nominative": "moja",
+      "genitive": "mojej",
+      "dative": "mojej",
+      "accusative": "moju",
+      "locative": "mojej",
+      "instrumental": "mojou",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "feminine",
+      "category": "personal, possessive",
+      "number": "singular",
+      "similar": "tvoj, náš, váš, svoj",
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "môj",
+      "nominative": "moje",
+      "genitive": "môjho",
+      "dative": "môjmu",
+      "accusative": "moje",
+      "locative": "mojom",
+      "instrumental": "mojím",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "neuter",
+      "category": "personal, possessive",
+      "number": "singular",
+      "similar": "tvoj, náš, váš, svoj",
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "môj",
       "nominative": "moji | moje",
       "genitive": "mojich",
       "dative": "mojim",
@@ -636,7 +1166,8 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "sa": {
+    {
+      "word": "sa",
       "nominative": "sa",
       "genitive": "seba",
       "dative": "sebe",
@@ -662,7 +1193,89 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "svoj": {
+    {
+      "word": "svoj",
+      "nominative": "svoj",
+      "genitive": "svojho",
+      "dative": "svojmu",
+      "accusative": "svojho | svoj",
+      "locative": "svojom",
+      "instrumental": "svojím",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "masculine",
+      "category": "reflexive, possessive",
+      "number": "singular",
+      "similar": "môj, tvoj, náš, váš",
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": "The form <span class=\"notes_sl_form\">svojho</span> is for living | <span class=\"notes_sl_form\">svoj</span> if for non-living.",
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "svoj",
+      "nominative": "svoja",
+      "genitive": "svojej",
+      "dative": "svojej",
+      "accusative": "svoju",
+      "locative": "svojej",
+      "instrumental": "svojou",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "feminine",
+      "category": "reflexive, possessive",
+      "number": "singular",
+      "similar": "môj, tvoj, náš, váš",
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "svoj",
+      "nominative": "svoje",
+      "genitive": "svojho",
+      "dative": "svojmu",
+      "accusative": "svoje",
+      "locative": "svojom",
+      "instrumental": "svojím",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "neuter",
+      "category": "reflexive, possessive",
+      "number": "singular",
+      "similar": "môj, tvoj, náš, váš",
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "svoj",
       "nominative": "svoji | svoje",
       "genitive": "svojich",
       "dative": "svojim",
@@ -688,7 +1301,89 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "ten": {
+    {
+      "word": "ten",
+      "nominative": "ten",
+      "genitive": "toho",
+      "dative": "tomu",
+      "accusative": "toho | ten",
+      "locative": "tom",
+      "instrumental": "tým",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "masculine",
+      "category": "demonstrative",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": "The form <span class=\"notes_sl_form\">toho</span> is for living | <span class=\"notes_sl_form\">ten</span> if for non-living.",
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "ten",
+      "nominative": "tá",
+      "genitive": "tej",
+      "dative": "tej",
+      "accusative": "tú",
+      "locative": "tej",
+      "instrumental": "tou",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "feminine",
+      "category": "demonstrative",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "ten",
+      "nominative": "to",
+      "genitive": "toho",
+      "dative": "tomu",
+      "accusative": "to",
+      "locative": "tom",
+      "instrumental": "tým",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "neuter",
+      "category": "demonstrative",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "ten",
       "nominative": "tí | tie",
       "genitive": "tých",
       "dative": "tým",
@@ -714,7 +1409,89 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "aký": {
+    {
+      "word": "aký",
+      "nominative": "aký",
+      "genitive": "akého",
+      "dative": "akému",
+      "accusative": "akého / aký",
+      "locative": "akom",
+      "instrumental": "akým",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "masculine",
+      "category": "interrogative",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": "The form <span class=\"notes_sl_form\">akého</span> is for living | <span class=\"notes_sl_form\">aký</span> if for non-living.",
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "aký",
+      "nominative": "aká",
+      "genitive": "akej",
+      "dative": "akej",
+      "accusative": "akú",
+      "locative": "akej",
+      "instrumental": "akou",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "feminine",
+      "category": "interrogative",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "aký",
+      "nominative": "aké",
+      "genitive": "akého",
+      "dative": "akému",
+      "accusative": "aké",
+      "locative": "akom",
+      "instrumental": "akým",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "neuter",
+      "category": "interrogative",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "aký",
       "nominative": "akí | aké",
       "genitive": "akých",
       "dative": "akým",
@@ -740,7 +1517,89 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "čí": {
+    {
+      "word": "čí",
+      "nominative": "čí",
+      "genitive": "čieho",
+      "dative": "čiemu",
+      "accusative": "čieho / čí",
+      "locative": "čom",
+      "instrumental": "čím",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "masculine",
+      "category": "interrogative",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": "The form <span class=\"notes_sl_form\">čieho</span> is for living | <span class=\"notes_sl_form\">čí</span> if for non-living.",
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "čí",
+      "nominative": "čia",
+      "genitive": "čej",
+      "dative": "čej",
+      "accusative": "čiu",
+      "locative": "čej",
+      "instrumental": "čou",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "feminine",
+      "category": "interrogative",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "čí",
+      "nominative": "čie",
+      "genitive": "čieho",
+      "dative": "čiemu",
+      "accusative": "čie",
+      "locative": "čom",
+      "instrumental": "čím",
+      "genitive_with_prep": null,
+      "dative_with_prep": null,
+      "accusative_with_prep": null,
+      "word_class": "pronoun",
+      "gender": "neuter",
+      "category": "interrogative",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null,
+      "genitive_with_prep_note": null,
+      "dative_with_prep_note": null,
+      "accusative_with_prep_note": null
+    },
+    {
+      "word": "čí",
       "nominative": "čí | čie",
       "genitive": "čích",
       "dative": "čím",
@@ -766,7 +1625,8 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "kto": {
+    {
+      "word": "kto",
       "nominative": "kto",
       "genitive": "koho",
       "dative": "komu",
@@ -792,7 +1652,8 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     },
-    "čo": {
+    {
+      "word": "čo",
       "nominative": "čo",
       "genitive": "čoho",
       "dative": "čomu",
@@ -818,9 +1679,73 @@
       "dative_with_prep_note": null,
       "accusative_with_prep_note": null
     }
-  },
-  "Adjectives (ex)": {
-    "pekný": {
+  ],
+  "Adjectives (ex)": [
+    {
+      "word": "pekný",
+      "nominative": "pekný",
+      "genitive": "pekného",
+      "dative": "peknému",
+      "accusative": "pekného | pekný",
+      "locative": "peknom",
+      "instrumental": "pekným",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "category": "qalitative",
+      "number": "singular",
+      "similar": "spokojný, starý, mladý",
+      "general_note": "Adjectives with hard ending <span class=\"note_spell\">(-ý | -y)</span> in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": "The form <span class=\"notes_sl_form\">pekného</span> is for living | <span class=\"notes_sl_form\">pekný</span> if for non-living.",
+      "instrumental_note": null
+    },
+    {
+      "word": "pekný",
+      "nominative": "pekná",
+      "genitive": "peknej",
+      "dative": "peknej",
+      "accusative": "peknú",
+      "locative": "peknej",
+      "instrumental": "peknou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "category": "qalitative",
+      "number": "singular",
+      "similar": "spokojný, starý, mladý",
+      "general_note": "Adjectives with hard ending <span class=\"note_spell\">(-ý | -y)</span> in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "pekný",
+      "nominative": "pekné",
+      "genitive": "pekného",
+      "dative": "peknému",
+      "accusative": "pekné",
+      "locative": "peknom",
+      "instrumental": "pekným",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "category": "qalitative",
+      "number": "singular",
+      "similar": "spokojný, starý, mladý",
+      "general_note": "Adjectives with hard ending <span class=\"note_spell\">(-ý | -y)</span> in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "pekný",
       "nominative": "pekní | pekné",
       "genitive": "pekných",
       "dative": "pekným",
@@ -840,7 +1765,71 @@
       "locative_note": "The form <span class=\"notes_sl_form\">pekných</span> is for masculine living | <span class=\"notes_sl_form\">pekné</span> if for non-living.",
       "instrumental_note": null
     },
-    "cudzí": {
+    {
+      "word": "cudzí",
+      "nominative": "cudzí",
+      "genitive": "cudzieho",
+      "dative": "cudziemu",
+      "accusative": "cudzieho | cudzí",
+      "locative": "cudzom",
+      "instrumental": "cudzím",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "category": "qalitative",
+      "number": "singular",
+      "similar": "svieži, horúci, domáci",
+      "general_note": "Adjectives with hard ending <span class=\"note_spell\">(-í | -i)</span> in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": "The form <span class=\"notes_sl_form\">cudzieho</span> is for living | <span class=\"notes_sl_form\">cudzí</span> if for non-living.",
+      "instrumental_note": null
+    },
+    {
+      "word": "cudzí",
+      "nominative": "cudzia",
+      "genitive": "cudzej",
+      "dative": "cudzej",
+      "accusative": "cudziu",
+      "locative": "cudzej",
+      "instrumental": "cudzou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "category": "qalitative",
+      "number": "singular",
+      "similar": "svieži, horúci, domáci",
+      "general_note": "Adjectives with hard ending <span class=\"note_spell\">(-í | -i)</span> in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "cudzí",
+      "nominative": "cudzie",
+      "genitive": "cudzieho",
+      "dative": "cudziemu",
+      "accusative": "cudzie",
+      "locative": "cudzom",
+      "instrumental": "cudzím",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "category": "qalitative",
+      "number": "singular",
+      "similar": "svieži, horúci, domáci",
+      "general_note": "Adjectives with hard ending <span class=\"note_spell\">(-í | -i)</span> in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "cudzí",
       "nominative": "cudzí | cudzie",
       "genitive": "cudzích",
       "dative": "cudzím",
@@ -860,7 +1849,71 @@
       "locative_note": "The form <span class=\"notes_sl_form\">cudzích</span> is for masculine living | <span class=\"notes_sl_form\">cudzie</span> if for non-living.",
       "instrumental_note": null
     },
-    "páví": {
+    {
+      "word": "páví",
+      "nominative": "páví",
+      "genitive": "pávieho",
+      "dative": "páviemu",
+      "accusative": "pávieho | páví",
+      "locative": "pávom",
+      "instrumental": "pávím",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "category": "relational",
+      "number": "singular",
+      "similar": "psi, medvedi, levi",
+      "general_note": "Declension for animal adjectives. The suffixes remain long and the rhythmic rule is not observed.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": "The form <span class=\"notes_sl_form\">pávieho</span> is for living | <span class=\"notes_sl_form\">páví</span> if for non-living.",
+      "instrumental_note": null
+    },
+    {
+      "word": "páví",
+      "nominative": "pávia",
+      "genitive": "pávej",
+      "dative": "pávej",
+      "accusative": "páviu",
+      "locative": "pávej",
+      "instrumental": "pávou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "category": "relational",
+      "number": "singular",
+      "similar": "psi, medvedi, levi",
+      "general_note": "Declension for animal adjectives. The suffixes remain long and the rhythmic rule is not observed.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "páví",
+      "nominative": "pávie",
+      "genitive": "pávieho",
+      "dative": "páviemu",
+      "accusative": "pávie",
+      "locative": "pávom",
+      "instrumental": "pávím",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "category": "relational",
+      "number": "singular",
+      "similar": "psi, medvedi, levi",
+      "general_note": "Declension for animal adjectives. The suffixes remain long and the rhythmic rule is not observed.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "páví",
       "nominative": "páví | pávie",
       "genitive": "pávích",
       "dative": "pávím",
@@ -880,7 +1933,71 @@
       "locative_note": "The form <span class=\"notes_sl_form\">pávích</span> is for masculine living | <span class=\"notes_sl_form\">pávie</span> if for non-living.",
       "instrumental_note": null
     },
-    "otcov": {
+    {
+      "word": "otcov",
+      "nominative": "otcov",
+      "genitive": "otcovho",
+      "dative": "otcovmu",
+      "accusative": "otcovho | otcov",
+      "locative": "otcovom",
+      "instrumental": "otcovým",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "category": "possessive",
+      "number": "singular",
+      "similar": "kamarátov, bratov",
+      "general_note": "Adjectives with <span class=\"note_spell\">-ov</span> ending in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": "The form <span class=\"notes_sl_form\">otcovho</span> is for living | <span class=\"notes_sl_form\">otcov</span> if for non-living.",
+      "instrumental_note": null
+    },
+    {
+      "word": "otcov",
+      "nominative": "otcova",
+      "genitive": "otcovej",
+      "dative": "otcovej",
+      "accusative": "otcovu",
+      "locative": "otcovej",
+      "instrumental": "otcovou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "category": "possessive",
+      "number": "singular",
+      "similar": "kamarátov, bratov",
+      "general_note": "Adjectives with <span class=\"note_spell\">-ov</span> ending in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "otcov",
+      "nominative": "otcovo",
+      "genitive": "otcovho",
+      "dative": "otcovmu",
+      "accusative": "otcovo",
+      "locative": "otcovom",
+      "instrumental": "otcovým",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "category": "possessive",
+      "number": "singular",
+      "similar": "kamarátov, bratov",
+      "general_note": "Adjectives with <span class=\"note_spell\">-ov</span> ending in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "otcov",
       "nominative": "otcovi | otcove",
       "genitive": "otcových",
       "dative": "otcovým",
@@ -900,7 +2017,71 @@
       "locative_note": "The form <span class=\"notes_sl_form\">otcových</span> is for masculine living | <span class=\"notes_sl_form\">otcove</span> if for non-living.",
       "instrumental_note": null
     },
-    "matkin": {
+    {
+      "word": "matkin",
+      "nominative": "matkin",
+      "genitive": "matkinho",
+      "dative": "matkinmu",
+      "accusative": "matkinho | matkin",
+      "locative": "matkinom",
+      "instrumental": "matkiným",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "category": "possessive",
+      "number": "singular",
+      "similar": "ženin, dcérin",
+      "general_note": "Adjectives with <span class=\"note_spell\">-in</span> ending in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": "The form <span class=\"notes_sl_form\">matkinho</span> is for living | <span class=\"notes_sl_form\">matkin</span> if for non-living.",
+      "instrumental_note": null
+    },
+    {
+      "word": "matkin",
+      "nominative": "matkina",
+      "genitive": "matkinej",
+      "dative": "matkinej",
+      "accusative": "matkinu",
+      "locative": "matkinej",
+      "instrumental": "matkinou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "category": "possessive",
+      "number": "singular",
+      "similar": "ženin, dcérin",
+      "general_note": "Adjectives with <span class=\"note_spell\">-in</span> ending in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "matkin",
+      "nominative": "matkino",
+      "genitive": "matkinho",
+      "dative": "matkinmu",
+      "accusative": "matkino",
+      "locative": "matkinom",
+      "instrumental": "matkiným",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "category": "possessive",
+      "number": "singular",
+      "similar": "ženin, dcérin",
+      "general_note": "Adjectives with <span class=\"note_spell\">-in</span> ending in nominative singular masculine.",
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "matkin",
       "nominative": "matkini | matkine",
       "genitive": "matkiných",
       "dative": "matkiným",
@@ -920,9 +2101,73 @@
       "locative_note": "The form <span class=\"notes_sl_form\">matkiných</span> is for masculine living | <span class=\"notes_sl_form\">matkine</span> if for non-living.",
       "instrumental_note": null
     }
-  },
-  "Numerals (ex)": {
-    "jeden ": {
+  ],
+  "Numerals (ex)": [
+    {
+      "word": "jeden",
+      "nominative": "jeden",
+      "genitive": "jedného",
+      "dative": "jednému",
+      "accusative": "jedného | jeden",
+      "locative": "jednom",
+      "instrumental": "jedným",
+      "word_class": "numeral",
+      "gender": "masculine",
+      "category": "cardinal",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": "The form <span class=\"notes_sl_form\">jedného</span> is for living | <span class=\"notes_sl_form\">jeden</span> if for non-living.",
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "jeden",
+      "nominative": "jedna",
+      "genitive": "jednej",
+      "dative": "jednej",
+      "accusative": "jednu",
+      "locative": "jednej",
+      "instrumental": "jednou",
+      "word_class": "numeral",
+      "gender": "feminine",
+      "category": "cardinal",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "jeden",
+      "nominative": "jedno",
+      "genitive": "jedného",
+      "dative": "jednému",
+      "accusative": "jedno",
+      "locative": "jednom",
+      "instrumental": "jedným",
+      "word_class": "numeral",
+      "gender": "neuter",
+      "category": "cardinal",
+      "number": "singular",
+      "similar": null,
+      "general_note": null,
+      "nominative_note": null,
+      "genitive_note": null,
+      "dative_note": null,
+      "accusative_note": null,
+      "locative_note": null,
+      "instrumental_note": null
+    },
+    {
+      "word": "jeden",
       "nominative": "jedni | jedny",
       "genitive": "jedných",
       "dative": "jedným",
@@ -942,7 +2187,8 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "dva": {
+    {
+      "word": "dva",
       "nominative": "dvaja | dva | dve",
       "genitive": "dvoch",
       "dative": "dvom",
@@ -962,7 +2208,8 @@
       "locative_note": null,
       "instrumental_note": "The form <span class=\"notes_sl_form\">dvoma</span> is for masculine living | <span class=\"notes_sl_form\">dvomi</span> if for non-living."
     },
-    "tri": {
+    {
+      "word": "tri",
       "nominative": "traja | tri",
       "genitive": "troch",
       "dative": "trom",
@@ -982,7 +2229,8 @@
       "locative_note": null,
       "instrumental_note": "The form <span class=\"notes_sl_form\">troma</span> is for masculine living | <span class=\"notes_sl_form\">tromi</span> if for non-living."
     },
-    "štyri": {
+    {
+      "word": "štyri",
       "nominative": "štyria | štyri",
       "genitive": "štyroch",
       "dative": "štyrom",
@@ -1002,7 +2250,8 @@
       "locative_note": null,
       "instrumental_note": null
     },
-    "päť": {
+    {
+      "word": "päť",
       "nominative": "piati | päť",
       "genitive": "piatich",
       "dative": "piatim",
@@ -1022,9 +2271,22 @@
       "locative_note": null,
       "instrumental_note": null
     }
-  },
-  "Similar (ex)": {
-    "chlapec": {
+  ],
+  "Similar (ex)": [
+    {
+      "word": "chlapec",
+      "nominative": "chlapec",
+      "genitive": "chlapca",
+      "dative": "chlapcovi",
+      "accusative": "chlapca",
+      "locative": "chlapcovi",
+      "instrumental": "chlapcom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "chlapec",
       "nominative": "chlapci",
       "genitive": "chlapcov",
       "dative": "chlapcom",
@@ -1035,7 +2297,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "hokejista": {
+    {
+      "word": "hokejista",
+      "nominative": "hokejista",
+      "genitive": "hokejistu",
+      "dative": "hokejistovi",
+      "accusative": "hokejistu",
+      "locative": "hokejistovi",
+      "instrumental": "hokejistom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "hokejista",
       "nominative": "hokejisti",
       "genitive": "hokejistov",
       "dative": "hokejistom",
@@ -1046,7 +2321,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "otec": {
+    {
+      "word": "otec",
+      "nominative": "otec",
+      "genitive": "otca",
+      "dative": "otcovi",
+      "accusative": "otca",
+      "locative": "otcovi",
+      "instrumental": "otcom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "otec",
       "nominative": "otcovia",
       "genitive": "otcov",
       "dative": "otcom",
@@ -1057,7 +2345,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "učiteľ": {
+    {
+      "word": "učiteľ",
+      "nominative": "učiteľ",
+      "genitive": "učiteľa",
+      "dative": "učiteľovi",
+      "accusative": "učiteľa",
+      "locative": "učiteľovi",
+      "instrumental": "učiteľom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "učiteľ",
       "nominative": "učitelia",
       "genitive": "učiteľov",
       "dative": "učiteľom",
@@ -1068,7 +2369,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "spolužiak": {
+    {
+      "word": "spolužiak",
+      "nominative": "spolužiak",
+      "genitive": "spolužiaka",
+      "dative": "spolužiakovi",
+      "accusative": "spolužiaka",
+      "locative": "spolužiakovi",
+      "instrumental": "spolužiakom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "spolužiak",
       "nominative": "spolužiaci",
       "genitive": "spolužiakov",
       "dative": "spolužiakom",
@@ -1079,7 +2393,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "syn": {
+    {
+      "word": "syn",
+      "nominative": "syn",
+      "genitive": "syna",
+      "dative": "synovi",
+      "accusative": "syna",
+      "locative": "synovi",
+      "instrumental": "synom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "syn",
       "nominative": "synovia",
       "genitive": "synov",
       "dative": "synom",
@@ -1090,7 +2417,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "dedo": {
+    {
+      "word": "dedo",
+      "nominative": "dedo",
+      "genitive": "deda",
+      "dative": "dedovi",
+      "accusative": "deda",
+      "locative": "dedovi",
+      "instrumental": "dedom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "dedo",
       "nominative": "dedovia",
       "genitive": "dedov",
       "dative": "dedom",
@@ -1101,7 +2441,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "brat": {
+    {
+      "word": "brat",
+      "nominative": "brat",
+      "genitive": "brata",
+      "dative": "bratovi",
+      "accusative": "brata",
+      "locative": "bratovi",
+      "instrumental": "bratom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "brat",
       "nominative": "bratia",
       "genitive": "bratov",
       "dative": "bratom",
@@ -1112,7 +2465,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "sudca": {
+    {
+      "word": "sudca",
+      "nominative": "sudca",
+      "genitive": "sudcu",
+      "dative": "sudcovi",
+      "accusative": "sudcu",
+      "locative": "sudcovi",
+      "instrumental": "sudcom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "sudca",
       "nominative": "sudcovia",
       "genitive": "sudcov",
       "dative": "sudcom",
@@ -1123,7 +2489,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "sluha": {
+    {
+      "word": "sluha",
+      "nominative": "sluha",
+      "genitive": "sluhu",
+      "dative": "sluhovi",
+      "accusative": "sluhu",
+      "locative": "sluhovi",
+      "instrumental": "sluhom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "sluha",
       "nominative": "sluhovia",
       "genitive": "sluhov",
       "dative": "sluhom",
@@ -1134,7 +2513,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "huslista": {
+    {
+      "word": "huslista",
+      "nominative": "huslista",
+      "genitive": "huslistu",
+      "dative": "huslistovi",
+      "accusative": "huslistu",
+      "locative": "huslistovi",
+      "instrumental": "huslistom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "huslista",
       "nominative": "huslisti",
       "genitive": "huslistov",
       "dative": "huslistom",
@@ -1145,7 +2537,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "dom": {
+    {
+      "word": "dom",
+      "nominative": "dom",
+      "genitive": "domu",
+      "dative": "domu",
+      "accusative": "dom",
+      "locative": "dome",
+      "instrumental": "domom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "dom",
       "nominative": "domy",
       "genitive": "domov",
       "dative": "domom",
@@ -1156,7 +2561,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "autobus": {
+    {
+      "word": "autobus",
+      "nominative": "autobus",
+      "genitive": "autobusa | autobusu",
+      "dative": "autobusu",
+      "accusative": "autobus",
+      "locative": "autobuse",
+      "instrumental": "autobusom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "autobus",
       "nominative": "autobusy",
       "genitive": "autobusov",
       "dative": "autobusom",
@@ -1167,7 +2585,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "pondelok": {
+    {
+      "word": "pondelok",
+      "nominative": "pondelok",
+      "genitive": "pondelka | pondelku",
+      "dative": "pondelku",
+      "accusative": "pondelok",
+      "locative": "pondelku",
+      "instrumental": "pondelkom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "pondelok",
       "nominative": "pondelky",
       "genitive": "pondelkov",
       "dative": "pondelkom",
@@ -1178,7 +2609,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "kôš": {
+    {
+      "word": "kôš",
+      "nominative": "kôš",
+      "genitive": "koša",
+      "dative": "košu",
+      "accusative": "kôš",
+      "locative": "koši",
+      "instrumental": "košom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "kôš",
       "nominative": "koše",
       "genitive": "košov",
       "dative": "košom",
@@ -1189,7 +2633,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "oheň": {
+    {
+      "word": "oheň",
+      "nominative": "oheň",
+      "genitive": "ohňa",
+      "dative": "ohňu",
+      "accusative": "oheň",
+      "locative": "ohni",
+      "instrumental": "ohňom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "oheň",
       "nominative": "ohne",
       "genitive": "ohňov",
       "dative": "ohňom",
@@ -1200,7 +2657,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "čaj": {
+    {
+      "word": "čaj",
+      "nominative": "čaj",
+      "genitive": "čaju",
+      "dative": "čaju",
+      "accusative": "čaj",
+      "locative": "čaji",
+      "instrumental": "čajom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "čaj",
       "nominative": "čaje",
       "genitive": "čajov",
       "dative": "čajom",
@@ -1211,7 +2681,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "slon": {
+    {
+      "word": "slon",
+      "nominative": "slon",
+      "genitive": "slona",
+      "dative": "slonovi",
+      "accusative": "slona",
+      "locative": "slonovi",
+      "instrumental": "slonom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "slon",
       "nominative": "sloni | slony",
       "genitive": "slonov",
       "dative": "slonom",
@@ -1222,7 +2705,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "vlk": {
+    {
+      "word": "vlk",
+      "nominative": "vlk",
+      "genitive": "vlka",
+      "dative": "vlkovi",
+      "accusative": "vlka",
+      "locative": "vlkovi | vlku",
+      "instrumental": "vlkom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "vlk",
       "nominative": "vlci | vlky",
       "genitive": "vlkov",
       "dative": "vlkom",
@@ -1233,7 +2729,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "lev": {
+    {
+      "word": "lev",
+      "nominative": "lev",
+      "genitive": "leva",
+      "dative": "levovi",
+      "accusative": "leva",
+      "locative": "levovi",
+      "instrumental": "levom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "lev",
       "nominative": "leví | levy",
       "genitive": "levov",
       "dative": "levom",
@@ -1244,7 +2753,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "kôň": {
+    {
+      "word": "kôň",
+      "nominative": "kôň",
+      "genitive": "koňa",
+      "dative": "koňovi",
+      "accusative": "koňa",
+      "locative": "koňovi | koni",
+      "instrumental": "koňom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "kôň",
       "nominative": "koni | kone",
       "genitive": "koňov | koní",
       "dative": "koňom",
@@ -1255,7 +2777,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "mravec": {
+    {
+      "word": "mravec",
+      "nominative": "mravec",
+      "genitive": "mravca",
+      "dative": "mravcovi",
+      "accusative": "mravca",
+      "locative": "mravcovi",
+      "instrumental": "mravcom",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "mravec",
       "nominative": "mravci | mravce",
       "genitive": "mravcov",
       "dative": "mravcom",
@@ -1266,7 +2801,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "pony": {
+    {
+      "word": "pony",
+      "nominative": "pony",
+      "genitive": "ponyho",
+      "dative": "ponymu",
+      "accusative": "ponyho",
+      "locative": "ponym",
+      "instrumental": "ponym",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "pony",
       "nominative": "ponyovia",
       "genitive": "ponyov",
       "dative": "ponyom",
@@ -1277,7 +2825,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "grizly": {
+    {
+      "word": "grizly",
+      "nominative": "grizly",
+      "genitive": "grizlyho",
+      "dative": "grizlymu",
+      "accusative": "grizlyho",
+      "locative": "grizlym",
+      "instrumental": "grizlym",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "grizly",
       "nominative": "grizlyovia",
       "genitive": "grizlyov",
       "dative": "grizlyom",
@@ -1288,7 +2849,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "abbé": {
+    {
+      "word": "abbé",
+      "nominative": "abbé",
+      "genitive": "abbého",
+      "dative": "abbému",
+      "accusative": "abbého",
+      "locative": "abbém",
+      "instrumental": "abbém",
+      "word_class": "noun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "abbé",
       "nominative": "abbéovia",
       "genitive": "abbéov",
       "dative": "abbéom",
@@ -1299,7 +2873,20 @@
       "gender": "masculine",
       "number": "plural"
     },
-    "mama": {
+    {
+      "word": "mama",
+      "nominative": "mama",
+      "genitive": "mamy",
+      "dative": "mame",
+      "accusative": "mamu",
+      "locative": "mame",
+      "instrumental": "mamou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "mama",
       "nominative": "mamy",
       "genitive": "mám | mamí",
       "dative": "mamám",
@@ -1310,7 +2897,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "dcéra": {
+    {
+      "word": "dcéra",
+      "nominative": "dcéra",
+      "genitive": "dcéry",
+      "dative": "dcére",
+      "accusative": "dcéru",
+      "locative": "dcére",
+      "instrumental": "dcérou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "dcéra",
       "nominative": "dcéry",
       "genitive": "dcér",
       "dative": "dcéram",
@@ -1321,7 +2921,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "vnučka": {
+    {
+      "word": "vnučka",
+      "nominative": "vnučka",
+      "genitive": "vnučky",
+      "dative": "vnučke",
+      "accusative": "vnučku",
+      "locative": "vnučke",
+      "instrumental": "vnučkou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "vnučka",
       "nominative": "vnučky",
       "genitive": "vnučiek | vnučkí",
       "dative": "vnučkám",
@@ -1332,7 +2945,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "schôdza": {
+    {
+      "word": "schôdza",
+      "nominative": "schôdza",
+      "genitive": "schôdze",
+      "dative": "schôdzi",
+      "accusative": "schôdzu",
+      "locative": "schôdzi",
+      "instrumental": "schôdzou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "schôdza",
       "nominative": "schôdze",
       "genitive": "schôdzí",
       "dative": "schôdzam",
@@ -1343,7 +2969,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "tabuľa": {
+    {
+      "word": "tabuľa",
+      "nominative": "tabuľa",
+      "genitive": "tabule",
+      "dative": "tabuli",
+      "accusative": "tabuľu",
+      "locative": "tabuli",
+      "instrumental": "tabuľou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "tabuľa",
       "nominative": "tabule",
       "genitive": "tabúľ | tabulí",
       "dative": "tabuliam",
@@ -1354,7 +2993,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "ruža": {
+    {
+      "word": "ruža",
+      "nominative": "ruža",
+      "genitive": "ruže",
+      "dative": "ruži",
+      "accusative": "ružu",
+      "locative": "ruži",
+      "instrumental": "ružou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "ruža",
       "nominative": "ruže",
       "genitive": "rúž | ruží",
       "dative": "ružiam",
@@ -1365,7 +3017,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "loď": {
+    {
+      "word": "loď",
+      "nominative": "loď",
+      "genitive": "lode",
+      "dative": "lodi",
+      "accusative": "loď",
+      "locative": "lodi",
+      "instrumental": "loďou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "loď",
       "nominative": "lode",
       "genitive": "lodí",
       "dative": "lodiam",
@@ -1376,7 +3041,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "reportáž": {
+    {
+      "word": "reportáž",
+      "nominative": "reportáž",
+      "genitive": "reportáže",
+      "dative": "reportáži",
+      "accusative": "reportáž",
+      "locative": "reportáži",
+      "instrumental": "reportážou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "reportáž",
       "nominative": "reportáže",
       "genitive": "reportáží",
       "dative": "reportážam",
@@ -1387,7 +3065,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "posteľ": {
+    {
+      "word": "posteľ",
+      "nominative": "posteľ",
+      "genitive": "postele",
+      "dative": "posteli",
+      "accusative": "posteľ",
+      "locative": "posteli",
+      "instrumental": "posteľou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "posteľ",
       "nominative": "postele",
       "genitive": "postelí",
       "dative": "posteliam",
@@ -1398,7 +3089,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "noc": {
+    {
+      "word": "noc",
+      "nominative": "noc",
+      "genitive": "noci",
+      "dative": "noci",
+      "accusative": "noc",
+      "locative": "noci",
+      "instrumental": "nocou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "noc",
       "nominative": "noci",
       "genitive": "nocí",
       "dative": "nociam",
@@ -1409,7 +3113,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "step": {
+    {
+      "word": "step",
+      "nominative": "step",
+      "genitive": "stepi",
+      "dative": "stepi",
+      "accusative": "step",
+      "locative": "stepi",
+      "instrumental": "stepou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "step",
       "nominative": "stepi",
       "genitive": "stepí",
       "dative": "stepiam",
@@ -1420,7 +3137,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "radosť": {
+    {
+      "word": "radosť",
+      "nominative": "radosť",
+      "genitive": "radosti",
+      "dative": "radosti",
+      "accusative": "radosť",
+      "locative": "radosti",
+      "instrumental": "radosťou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "radosť",
       "nominative": "radosti",
       "genitive": "radostí",
       "dative": "radostiam",
@@ -1431,7 +3161,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "princezná": {
+    {
+      "word": "princezná",
+      "nominative": "princezná",
+      "genitive": "princeznej",
+      "dative": "princeznej",
+      "accusative": "princeznú",
+      "locative": "princeznej",
+      "instrumental": "princeznou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "princezná",
       "nominative": "princezné",
       "genitive": "princezien",
       "dative": "princeznám",
@@ -1442,7 +3185,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "kráľovná": {
+    {
+      "word": "kráľovná",
+      "nominative": "kráľovná",
+      "genitive": "kráľovnej",
+      "dative": "kráľovnej",
+      "accusative": "kráľovnú",
+      "locative": "kráľovnej",
+      "instrumental": "kráľovnou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "kráľovná",
       "nominative": "kráľovné",
       "genitive": "kráľovien",
       "dative": "kráľovnám",
@@ -1453,7 +3209,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "cisárovná": {
+    {
+      "word": "cisárovná",
+      "nominative": "cisárovná",
+      "genitive": "cisárovnej",
+      "dative": "cisárovnej",
+      "accusative": "cisárovnú",
+      "locative": "cisárovnej",
+      "instrumental": "cisárovnou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "cisárovná",
       "nominative": "cisárovné",
       "genitive": "cisárovien",
       "dative": "cisárovnám",
@@ -1464,7 +3233,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "orchidea": {
+    {
+      "word": "orchidea",
+      "nominative": "orchidea",
+      "genitive": "orchidey",
+      "dative": "orchidei",
+      "accusative": "orchideu",
+      "locative": "orchidei",
+      "instrumental": "orchideou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "orchidea",
       "nominative": "orchidey",
       "genitive": "orchideí",
       "dative": "orchideám",
@@ -1475,7 +3257,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "aloa": {
+    {
+      "word": "aloa",
+      "nominative": "aloa",
+      "genitive": "aloy",
+      "dative": "aloe",
+      "accusative": "alou",
+      "locative": "aloe",
+      "instrumental": "aloou",
+      "word_class": "noun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "aloa",
       "nominative": "aloy",
       "genitive": "aloí",
       "dative": "aloám",
@@ -1486,7 +3281,20 @@
       "gender": "feminine",
       "number": "plural"
     },
-    "auto": {
+    {
+      "word": "auto",
+      "nominative": "auto",
+      "genitive": "auta",
+      "dative": "autu",
+      "accusative": "auto",
+      "locative": "aute",
+      "instrumental": "autom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "auto",
       "nominative": "autá",
       "genitive": "áut",
       "dative": "autám",
@@ -1497,7 +3305,20 @@
       "gender": "neuter",
       "number": "plural"
     },
-    "epiteton": {
+    {
+      "word": "epiteton",
+      "nominative": "epiteton",
+      "genitive": "epiteta",
+      "dative": "epitetu",
+      "accusative": "epiteton",
+      "locative": "epitete",
+      "instrumental": "epitetom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "epiteton",
       "nominative": "epitetá",
       "genitive": "epitet",
       "dative": "epitetám",
@@ -1508,7 +3329,20 @@
       "gender": "neuter",
       "number": "plural"
     },
-    "múzeum": {
+    {
+      "word": "múzeum",
+      "nominative": "múzeum",
+      "genitive": "múzea",
+      "dative": "múzeu",
+      "accusative": "múzeum",
+      "locative": "múzeu",
+      "instrumental": "múzeom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "múzeum",
       "nominative": "múzeá",
       "genitive": "múzeí",
       "dative": "múzeám",
@@ -1519,7 +3353,20 @@
       "gender": "neuter",
       "number": "plural"
     },
-    "vajce": {
+    {
+      "word": "vajce",
+      "nominative": "vajce",
+      "genitive": "vajca",
+      "dative": "vajcu",
+      "accusative": "vajce",
+      "locative": "vajci",
+      "instrumental": "vajcom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "vajce",
       "nominative": "vajcia",
       "genitive": "vajec",
       "dative": "vajciam",
@@ -1530,7 +3377,20 @@
       "gender": "neuter",
       "number": "plural"
     },
-    "more": {
+    {
+      "word": "more",
+      "nominative": "more",
+      "genitive": "mora",
+      "dative": "moru",
+      "accusative": "more",
+      "locative": "mori",
+      "instrumental": "morom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "more",
       "nominative": "moria",
       "genitive": "morí",
       "dative": "moriam",
@@ -1541,7 +3401,20 @@
       "gender": "neuter",
       "number": "plural"
     },
-    "pole": {
+    {
+      "word": "pole",
+      "nominative": "pole",
+      "genitive": "poľa",
+      "dative": "poľu",
+      "accusative": "pole",
+      "locative": "poli",
+      "instrumental": "poľom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "pole",
       "nominative": "polia",
       "genitive": "polí",
       "dative": "poliam",
@@ -1552,7 +3425,8 @@
       "gender": "neuter",
       "number": "plural"
     },
-    "lístie": {
+    {
+      "word": "lístie",
       "nominative": "lístie",
       "genitive": "lístia",
       "dative": "lístiu",
@@ -1563,7 +3437,20 @@
       "gender": "neuter",
       "number": "singular"
     },
-    "stretnutie": {
+    {
+      "word": "stretnutie",
+      "nominative": "stretnutie",
+      "genitive": "stretnutia",
+      "dative": "stretnutiu",
+      "accusative": "stretnutie",
+      "locative": "stretnutí",
+      "instrumental": "stretnutím",
+      "word_class": "noun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "stretnutie",
       "nominative": "stretnutia",
       "genitive": "stretnutí",
       "dative": "stretnutiam",
@@ -1574,7 +3461,20 @@
       "gender": "neuter",
       "number": "plural"
     },
-    "umenie": {
+    {
+      "word": "umenie",
+      "nominative": "umenie",
+      "genitive": "umenia",
+      "dative": "umeniu",
+      "accusative": "umenie",
+      "locative": "umení",
+      "instrumental": "umením",
+      "word_class": "noun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "umenie",
       "nominative": "umenia",
       "genitive": "umení",
       "dative": "umeniam",
@@ -1585,7 +3485,20 @@
       "gender": "neuter",
       "number": "plural"
     },
-    "zviera": {
+    {
+      "word": "zviera",
+      "nominative": "zviera",
+      "genitive": "zvieraťa",
+      "dative": "zvieraťu",
+      "accusative": "zviera",
+      "locative": "zvierati",
+      "instrumental": "zvieraťom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "zviera",
       "nominative": "zvieratá",
       "genitive": "zvierat",
       "dative": "zvieratám",
@@ -1596,7 +3509,20 @@
       "gender": "neuter",
       "number": "plural"
     },
-    "páža": {
+    {
+      "word": "páža",
+      "nominative": "páža",
+      "genitive": "pážaťa",
+      "dative": "pážaťu",
+      "accusative": "páža",
+      "locative": "pážati",
+      "instrumental": "pážaťom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "páža",
       "nominative": "pážatá",
       "genitive": "pážat",
       "dative": "pážatám",
@@ -1607,7 +3533,20 @@
       "gender": "neuter",
       "number": "plural"
     },
-    "knieža": {
+    {
+      "word": "knieža",
+      "nominative": "knieža",
+      "genitive": "kniežaťa",
+      "dative": "kniežaťu",
+      "accusative": "knieža",
+      "locative": "kniežati",
+      "instrumental": "kniežaťom",
+      "word_class": "noun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "knieža",
       "nominative": "kniežatá",
       "genitive": "kniežat",
       "dative": "kniežatám",
@@ -1618,7 +3557,44 @@
       "gender": "neuter",
       "number": "plural"
     },
-    "tvoj": {
+    {
+      "word": "tvoj",
+      "nominative": "tvoj",
+      "genitive": "tvojho",
+      "dative": "tvojmu",
+      "accusative": "tvojho | tvoj",
+      "locative": "tvojom",
+      "instrumental": "tvojím",
+      "word_class": "pronoun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "tvoj",
+      "nominative": "tvoja",
+      "genitive": "tvojej",
+      "dative": "tvojej",
+      "accusative": "tvoju",
+      "locative": "tvojej",
+      "instrumental": "tvojou",
+      "word_class": "pronoun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "tvoj",
+      "nominative": "tvoje",
+      "genitive": "tvojho",
+      "dative": "tvojmu",
+      "accusative": "tvoje",
+      "locative": "tvojom",
+      "instrumental": "tvojím",
+      "word_class": "pronoun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "tvoj",
       "nominative": "tvoji | tvoje",
       "genitive": "tvojich",
       "dative": "tvojim",
@@ -1629,7 +3605,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "náš": {
+    {
+      "word": "náš",
+      "nominative": "náš",
+      "genitive": "nášho",
+      "dative": "nášmu",
+      "accusative": "nášho | náš",
+      "locative": "nášom",
+      "instrumental": "náším",
+      "word_class": "pronoun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "náš",
+      "nominative": "náša",
+      "genitive": "nášej",
+      "dative": "nášej",
+      "accusative": "nášu",
+      "locative": "nášej",
+      "instrumental": "nášou",
+      "word_class": "pronoun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "náš",
+      "nominative": "náše",
+      "genitive": "nášho",
+      "dative": "nášmu",
+      "accusative": "náše",
+      "locative": "nášom",
+      "instrumental": "náším",
+      "word_class": "pronoun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "náš",
       "nominative": "náši | náše",
       "genitive": "nášich",
       "dative": "nášim",
@@ -1640,7 +3653,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "váš": {
+    {
+      "word": "váš",
+      "nominative": "váš",
+      "genitive": "vášho",
+      "dative": "vášmu",
+      "accusative": "vášho | váš",
+      "locative": "vášom",
+      "instrumental": "váším",
+      "word_class": "pronoun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "váš",
+      "nominative": "váša",
+      "genitive": "vášej",
+      "dative": "vášej",
+      "accusative": "vášu",
+      "locative": "vášej",
+      "instrumental": "vášou",
+      "word_class": "pronoun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "váš",
+      "nominative": "váše",
+      "genitive": "vášho",
+      "dative": "vášmu",
+      "accusative": "váše",
+      "locative": "vášom",
+      "instrumental": "váším",
+      "word_class": "pronoun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "váš",
       "nominative": "váši | váše",
       "genitive": "vášich",
       "dative": "vášim",
@@ -1651,7 +3701,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "svoj": {
+    {
+      "word": "svoj",
+      "nominative": "svoj",
+      "genitive": "svojho",
+      "dative": "svojmu",
+      "accusative": "svojho | svoj",
+      "locative": "svojom",
+      "instrumental": "svojím",
+      "word_class": "pronoun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "svoj",
+      "nominative": "svoja",
+      "genitive": "svojej",
+      "dative": "svojej",
+      "accusative": "svoju",
+      "locative": "svojej",
+      "instrumental": "svojou",
+      "word_class": "pronoun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "svoj",
+      "nominative": "svoje",
+      "genitive": "svojho",
+      "dative": "svojmu",
+      "accusative": "svoje",
+      "locative": "svojom",
+      "instrumental": "svojím",
+      "word_class": "pronoun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "svoj",
       "nominative": "svoji | svoje",
       "genitive": "svojich",
       "dative": "svojim",
@@ -1662,7 +3749,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "môj": {
+    {
+      "word": "môj",
+      "nominative": "môj",
+      "genitive": "môjho",
+      "dative": "môjmu",
+      "accusative": "môjho | môj",
+      "locative": "mojom",
+      "instrumental": "mojím",
+      "word_class": "pronoun",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "môj",
+      "nominative": "moja",
+      "genitive": "mojej",
+      "dative": "mojej",
+      "accusative": "moju",
+      "locative": "mojej",
+      "instrumental": "mojou",
+      "word_class": "pronoun",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "môj",
+      "nominative": "moje",
+      "genitive": "môjho",
+      "dative": "môjmu",
+      "accusative": "moje",
+      "locative": "mojom",
+      "instrumental": "mojím",
+      "word_class": "pronoun",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "môj",
       "nominative": "moji | moje",
       "genitive": "mojich",
       "dative": "mojim",
@@ -1673,7 +3797,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "spokojný": {
+    {
+      "word": "spokojný",
+      "nominative": "spokojný",
+      "genitive": "spokojného",
+      "dative": "spokojnému",
+      "accusative": "spokojného | spokojný",
+      "locative": "spokojnom",
+      "instrumental": "spokojným",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "spokojný",
+      "nominative": "spokojná",
+      "genitive": "spokojnej",
+      "dative": "spokojnej",
+      "accusative": "spokojnú",
+      "locative": "spokojnej",
+      "instrumental": "spokojnou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "spokojný",
+      "nominative": "spokojné",
+      "genitive": "spokojného",
+      "dative": "spokojnému",
+      "accusative": "spokojné",
+      "locative": "spokojnom",
+      "instrumental": "spokojným",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "spokojný",
       "nominative": "spokojní | spokojné",
       "genitive": "spokojných",
       "dative": "spokojným",
@@ -1684,7 +3845,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "starý": {
+    {
+      "word": "starý",
+      "nominative": "starý",
+      "genitive": "starého",
+      "dative": "starému",
+      "accusative": "starého | starý",
+      "locative": "starom",
+      "instrumental": "starým",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "starý",
+      "nominative": "stará",
+      "genitive": "starej",
+      "dative": "starej",
+      "accusative": "starú",
+      "locative": "starej",
+      "instrumental": "starou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "starý",
+      "nominative": "staré",
+      "genitive": "starého",
+      "dative": "starému",
+      "accusative": "staré",
+      "locative": "starom",
+      "instrumental": "starým",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "starý",
       "nominative": "starí | staré",
       "genitive": "starých",
       "dative": "starým",
@@ -1695,7 +3893,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "mladý": {
+    {
+      "word": "mladý",
+      "nominative": "mladý",
+      "genitive": "mladého",
+      "dative": "mladému",
+      "accusative": "mladého | mladý",
+      "locative": "mladom",
+      "instrumental": "mladým",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "mladý",
+      "nominative": "mladá",
+      "genitive": "mladej",
+      "dative": "mladej",
+      "accusative": "mladú",
+      "locative": "mladej",
+      "instrumental": "mladou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "mladý",
+      "nominative": "mladé",
+      "genitive": "mladého",
+      "dative": "mladému",
+      "accusative": "mladé",
+      "locative": "mladom",
+      "instrumental": "mladým",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "mladý",
       "nominative": "mladí | mladé",
       "genitive": "mladých",
       "dative": "mladým",
@@ -1706,7 +3941,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "svieži": {
+    {
+      "word": "svieži",
+      "nominative": "svieži",
+      "genitive": "sviežeho",
+      "dative": "sviežemu",
+      "accusative": "sviežeho | svieži",
+      "locative": "sviežom",
+      "instrumental": "sviežim",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "svieži",
+      "nominative": "svieža",
+      "genitive": "sviežej",
+      "dative": "sviežej",
+      "accusative": "sviežu",
+      "locative": "sviežej",
+      "instrumental": "sviežou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "svieži",
+      "nominative": "svieže",
+      "genitive": "sviežeho",
+      "dative": "sviežemu",
+      "accusative": "svieže",
+      "locative": "sviežom",
+      "instrumental": "sviežim",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "svieži",
       "nominative": "svieži | svieže",
       "genitive": "sviežich",
       "dative": "sviežim",
@@ -1717,7 +3989,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "horúci": {
+    {
+      "word": "horúci",
+      "nominative": "horúci",
+      "genitive": "horúceho",
+      "dative": "horúcemu",
+      "accusative": "horúceho | horúci",
+      "locative": "horúcom",
+      "instrumental": "horúcim",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "horúci",
+      "nominative": "horúca",
+      "genitive": "horúcej",
+      "dative": "horúcej",
+      "accusative": "horúcu",
+      "locative": "horúcej",
+      "instrumental": "horúcou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "horúci",
+      "nominative": "horúce",
+      "genitive": "horúceho",
+      "dative": "horúcemu",
+      "accusative": "horúce",
+      "locative": "horúcom",
+      "instrumental": "horúcim",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "horúci",
       "nominative": "horúci | horúce",
       "genitive": "horúcich",
       "dative": "horúcim",
@@ -1728,7 +4037,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "domáci": {
+    {
+      "word": "domáci",
+      "nominative": "domáci",
+      "genitive": "domáceho",
+      "dative": "domácemu",
+      "accusative": "domáceho | domáci",
+      "locative": "domácom",
+      "instrumental": "domácim",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "domáci",
+      "nominative": "domáca",
+      "genitive": "domácej",
+      "dative": "domácej",
+      "accusative": "domácu",
+      "locative": "domácej",
+      "instrumental": "domácou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "domáci",
+      "nominative": "domáce",
+      "genitive": "domáceho",
+      "dative": "domácemu",
+      "accusative": "domáce",
+      "locative": "domácom",
+      "instrumental": "domácim",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "domáci",
       "nominative": "domáci | domáce",
       "genitive": "domácich",
       "dative": "domácim",
@@ -1739,7 +4085,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "psi": {
+    {
+      "word": "psi",
+      "nominative": "psi",
+      "genitive": "pseho",
+      "dative": "psemu",
+      "accusative": "pseho | psi",
+      "locative": "psom",
+      "instrumental": "psim",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "psi",
+      "nominative": "psa",
+      "genitive": "psej",
+      "dative": "psej",
+      "accusative": "psu",
+      "locative": "psej",
+      "instrumental": "psou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "psi",
+      "nominative": "pse",
+      "genitive": "pseho",
+      "dative": "psemu",
+      "accusative": "pse",
+      "locative": "psom",
+      "instrumental": "psim",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "psi",
       "nominative": "psi | pse",
       "genitive": "psich",
       "dative": "psim",
@@ -1750,7 +4133,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "medvedi": {
+    {
+      "word": "medvedi",
+      "nominative": "medvedi",
+      "genitive": "medvedeho",
+      "dative": "medvedemu",
+      "accusative": "medvedeho | medvedi",
+      "locative": "medvedom",
+      "instrumental": "medvedim",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "medvedi",
+      "nominative": "medveda",
+      "genitive": "medvedej",
+      "dative": "medvedej",
+      "accusative": "medvedu",
+      "locative": "medvedej",
+      "instrumental": "medvedou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "medvedi",
+      "nominative": "medvede",
+      "genitive": "medvedeho",
+      "dative": "medvedemu",
+      "accusative": "medvede",
+      "locative": "medvedom",
+      "instrumental": "medvedim",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "medvedi",
       "nominative": "medvedi | medvede",
       "genitive": "medvedich",
       "dative": "medvedim",
@@ -1761,7 +4181,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "levi": {
+    {
+      "word": "levi",
+      "nominative": "levi",
+      "genitive": "leveho",
+      "dative": "levemu",
+      "accusative": "leveho | levi",
+      "locative": "levom",
+      "instrumental": "levim",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "levi",
+      "nominative": "leva",
+      "genitive": "levej",
+      "dative": "levej",
+      "accusative": "levu",
+      "locative": "levej",
+      "instrumental": "levou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "levi",
+      "nominative": "leve",
+      "genitive": "leveho",
+      "dative": "levemu",
+      "accusative": "leve",
+      "locative": "levom",
+      "instrumental": "levim",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "levi",
       "nominative": "levi | leve",
       "genitive": "levich",
       "dative": "levim",
@@ -1772,7 +4229,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "kamarátov": {
+    {
+      "word": "kamarátov",
+      "nominative": "kamarátov",
+      "genitive": "kamarátovho",
+      "dative": "kamarátovmu",
+      "accusative": "kamarátovho | kamarátov",
+      "locative": "kamarátovom",
+      "instrumental": "kamarátovým",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "kamarátov",
+      "nominative": "kamarátova",
+      "genitive": "kamarátovej",
+      "dative": "kamarátovej",
+      "accusative": "kamarátovu",
+      "locative": "kamarátovej",
+      "instrumental": "kamarátovou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "kamarátov",
+      "nominative": "kamarátovo",
+      "genitive": "kamarátovho",
+      "dative": "kamarátovmu",
+      "accusative": "kamarátovo",
+      "locative": "kamarátovom",
+      "instrumental": "kamarátovým",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "kamarátov",
       "nominative": "kamarátovi | kamarátove",
       "genitive": "kamarátových",
       "dative": "kamarátovým",
@@ -1783,7 +4277,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "bratov": {
+    {
+      "word": "bratov",
+      "nominative": "bratov",
+      "genitive": "bratovho",
+      "dative": "bratovmu",
+      "accusative": "bratovho | bratov",
+      "locative": "bratovom",
+      "instrumental": "bratovým",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "bratov",
+      "nominative": "bratova",
+      "genitive": "bratovej",
+      "dative": "bratovej",
+      "accusative": "bratovu",
+      "locative": "bratovej",
+      "instrumental": "bratovou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "bratov",
+      "nominative": "bratovo",
+      "genitive": "bratovho",
+      "dative": "bratovmu",
+      "accusative": "bratovo",
+      "locative": "bratovom",
+      "instrumental": "bratovým",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "bratov",
       "nominative": "bratovi | bratove",
       "genitive": "bratových",
       "dative": "bratovým",
@@ -1794,7 +4325,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "ženin": {
+    {
+      "word": "ženin",
+      "nominative": "ženin",
+      "genitive": "ženinho",
+      "dative": "ženinmu",
+      "accusative": "ženinho | ženin",
+      "locative": "ženinom",
+      "instrumental": "ženiným",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "ženin",
+      "nominative": "ženina",
+      "genitive": "ženinej",
+      "dative": "ženinej",
+      "accusative": "ženinu",
+      "locative": "ženinej",
+      "instrumental": "ženinou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "ženin",
+      "nominative": "ženino",
+      "genitive": "ženinho",
+      "dative": "ženinmu",
+      "accusative": "ženino",
+      "locative": "ženinom",
+      "instrumental": "ženiným",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "ženin",
       "nominative": "ženini | ženine",
       "genitive": "ženiných",
       "dative": "ženiným",
@@ -1805,7 +4373,44 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "dcérin": {
+    {
+      "word": "dcérin",
+      "nominative": "dcérin",
+      "genitive": "dcérinho",
+      "dative": "dcérinmu",
+      "accusative": "dcérinho | dcérin",
+      "locative": "dcérinom",
+      "instrumental": "dcériným",
+      "word_class": "adjective",
+      "gender": "masculine",
+      "number": "singular"
+    },
+    {
+      "word": "dcérin",
+      "nominative": "dcérina",
+      "genitive": "dcérinej",
+      "dative": "dcérinej",
+      "accusative": "dcérinu",
+      "locative": "dcérinej",
+      "instrumental": "dcérinou",
+      "word_class": "adjective",
+      "gender": "feminine",
+      "number": "singular"
+    },
+    {
+      "word": "dcérin",
+      "nominative": "dcérino",
+      "genitive": "dcérinho",
+      "dative": "dcérinmu",
+      "accusative": "dcérino",
+      "locative": "dcérinom",
+      "instrumental": "dcériným",
+      "word_class": "adjective",
+      "gender": "neuter",
+      "number": "singular"
+    },
+    {
+      "word": "dcérin",
       "nominative": "dcérini | dcérine",
       "genitive": "dcériných",
       "dative": "dcériným",
@@ -1816,7 +4421,8 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "tri": {
+    {
+      "word": "tri",
       "nominative": "traja | tri",
       "genitive": "troch",
       "dative": "trom",
@@ -1827,7 +4433,8 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "štyri": {
+    {
+      "word": "štyri",
       "nominative": "štyria | štyri",
       "genitive": "štyroch",
       "dative": "štyrom",
@@ -1838,7 +4445,8 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "dva": {
+    {
+      "word": "dva",
       "nominative": "dvaja | dva | dve",
       "genitive": "dvoch",
       "dative": "dvom",
@@ -1849,7 +4457,8 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "šesť": {
+    {
+      "word": "šesť",
       "nominative": "šiesti | šesť",
       "genitive": "šiestich",
       "dative": "šiestim",
@@ -1860,7 +4469,8 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "sedem": {
+    {
+      "word": "sedem",
       "nominative": "siedmi | sedem",
       "genitive": "siedmich",
       "dative": "siedmim",
@@ -1871,7 +4481,8 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "osem": {
+    {
+      "word": "osem",
       "nominative": "ôsmi | osem",
       "genitive": "ôsmich",
       "dative": "ôsmim",
@@ -1882,7 +4493,8 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "deväť": {
+    {
+      "word": "deväť",
       "nominative": "deviati | deväť",
       "genitive": "deviatich",
       "dative": "deviatim",
@@ -1893,7 +4505,8 @@
       "gender": "genderless",
       "number": "plural"
     },
-    "desať": {
+    {
+      "word": "desať",
       "nominative": "desiati | desať",
       "genitive": "desiatich",
       "dative": "desiatim",
@@ -1904,5 +4517,5 @@
       "gender": "genderless",
       "number": "plural"
     }
-  }
+  ]
 }
