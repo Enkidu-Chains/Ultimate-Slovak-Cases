@@ -1,1 +1,1 @@
-# Ultimate-Slovak-Cases
+# Ultimate-Slovak-Declension
