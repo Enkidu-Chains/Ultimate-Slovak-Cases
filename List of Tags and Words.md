@@ -45,8 +45,7 @@
 |    plants     |
 
 |  Adjective  | 
-|:-----------:|
-|    basic    |             
+|:-----------:|      
 | possessive  |
 | qualitative |
 | relational  |
@@ -66,16 +65,14 @@
 
 ### Cases
 
-|    Cases     |
-|:------------:|
-|  nominative  |
-|   genitive   |
-|    dative    |
-|  accusative  |
-|   locative   |
-| instrumental |
-|   singular   |
-|    plural    |
+|        Cases         |
+|:--------------------:|
+|      nominative      |
+|       genitive       |
+|        dative        |
+|      accusative      |
+|       locative       |
+|     instrumental     |
 
 ### Number
 

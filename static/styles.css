@@ -177,27 +177,31 @@ input#typeans {
     color: rgb(203, 209, 209);
 }
 
-.nominative{
+.genderless {
+    color: rgb(136, 136, 198);
+}
+
+.Nominative{
     color: rgb(255, 216, 183);
 }
 
-.genitive {
+.Genitive {
     color: rgb(67, 134, 0);
 }
 
-.dative {
+.Dative {
     color: rgb(31, 139, 210);
 }
 
-.accusative {
+.Accusative {
     color: rgb(255, 0, 128);
 }
 
-.locative {
+.Locative {
     color: rgb(128, 128, 255);
 }
 
-.instrumental {
+.Instrumental {
     color: rgb(255, 128, 64);
 }
 /* UNUSED COLORS
