@@ -2655,7 +2655,7 @@
       "genitive_context": "Pamätáš sa na mená ___ ženy?",
       "dative_context": "Daroval som kvetinu ___ žene.",
       "accusative_context": "Vidím ___ ženu, ktorá hraje na klavíri.",
-      "locative_context": "Čítam o žene v akej knihe.",
+      "locative_context": "Čítam o žene v ___ knihe.",
       "instrumental_context": "Hovorím s ___ ženou o tejto téme."
     },
     {
@@ -2684,7 +2684,7 @@
       "genitive_context": "Pamätáš sa na mená ___ dieťaťa?",
       "dative_context": "Daroval som hračku ___ dieťaťu.",
       "accusative_context": "Vidím ___ dieťa, ktoré sa hrá s loptou.",
-      "locative_context": "Pocit v akom deťati",
+      "locative_context": "Pocit v ___ deťati",
       "instrumental_context": "Hovorím s ___ dieťaťom o tejto téme."
     },
     {

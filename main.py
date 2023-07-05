@@ -14,6 +14,8 @@ if __name__ == '__main__':
 
     for word in words:
         for case in cases:
+            if case is Case.Nominative and word.word == "sa":
+                continue
             USDDeck.add_note(
                 NoteBuilder(word=word, case=case, similar=get_similar(word, gender=word.gender, number=word.number))
                 .build()
@@ -30,4 +32,7 @@ if __name__ == '__main__':
         for word in words:
             if word.word == _word:
                 number_of_card += 6
+            elif _word == "sa":
+                number_of_card += 5
+                break
         print(f"{str(_words.index(_word) + 1).zfill(2)}. {_word.capitalize()}: {number_of_card} cards")
