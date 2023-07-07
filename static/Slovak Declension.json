@@ -51,7 +51,15 @@
         "people"
       ],
       "number": "plural",
-      "similar": [],
+      "similar": [
+        "chlapec",
+        "spolužiak",
+        "otec",
+        "učiteľ",
+        "syn",
+        "dedo",
+        "brat"
+      ],
       "general_note": "Living masculine nouns ending in a consonant or <span class=\"note_spell\">-o</span>.",
       "nominative_note": "Words in the nominative plural can also end with <span class=\"note_spell\">-ovia</span> and <span class=\"note_spell\">-ia</span>.",
       "genitive_note": "",
