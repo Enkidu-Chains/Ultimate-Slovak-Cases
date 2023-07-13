@@ -2,7 +2,7 @@ import re
 from uuid import UUID, uuid5, NAMESPACE_DNS
 
 from src.enums import CaseQuestion, NumberCue
-from src.tags import Case
+from src.tags import Case, Number, WordClass, Gender
 from src.templates import *
 from src.usd_note import USDNote
 from src.word import Word
@@ -36,9 +36,18 @@ class NoteBuilder:
 
     def __similar(self) -> str:
         result = ""
-        if self.case == Case.Nominative:
+        if self.case == Case.Nominative and self.word.word_class != WordClass.Noun and self.word.gender == Gender.Masculine:
             for word in self.similar:
                 result = result + similar_without_declension(word=word.word)
+        elif self.case == Case.Nominative and self.word.word_class != WordClass.Noun and self.word.gender != Gender.Masculine:
+            for word in self.similar:
+                result = result + similar_with_declension(word=word.word, declension=self.__declension(word))
+        elif self.case == Case.Nominative and self.word.word_class == WordClass.Noun and self.word.number == Number.Singular:
+            for word in self.similar:
+                result = result + similar_without_declension(word=word.word)
+        elif self.case == Case.Nominative and self.word.word_class == WordClass.Noun and self.word.number == Number.Plural:
+            for word in self.similar:
+                result = result + similar_with_declension(word=word.word, declension=self.__declension(word))
         else:
             for word in self.similar:
                 result = result + similar_with_declension(word=word.nominative, declension=self.__declension(word))
@@ -142,7 +151,7 @@ class NoteBuilder:
 
     def __number_cue(self) -> NumberCue:
         match self.word.number.lower():
-            case "singular":
+            case Number.Singular:
                 return NumberCue.Singular
-            case "plural":
+            case Number.Plural:
                 return NumberCue.Plural

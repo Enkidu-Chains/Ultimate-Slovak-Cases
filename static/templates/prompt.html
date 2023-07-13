@@ -1,3 +1,14 @@
-<span class="{case}">{case} {number}</span>
-<br><br>
-<span>{case_questions} {number_cue}</span> - <span>{cloze_text}</span>
+<span style="display: none" id="case">
+    <span onclick="hide()" class="button {case}">{case} {number}</span>
+    <br><br>
+</span>
+<span onclick="show()" class="button {case}">{case_questions} {number_cue}</span> - <span>{cloze_text}</span>
+<script>
+    function show() {{
+        document.getElementById("case").style.display = "block";
+    }}
+
+    function hide() {{
+        document.getElementById("case").style.display = "none";
+    }}
+</script>

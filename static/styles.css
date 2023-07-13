@@ -181,6 +181,10 @@ input#typeans {
     color: rgb(136, 136, 198);
 }
 
+.button:hover {
+    cursor: button;
+}
+
 .Nominative{
     color: rgb(255, 216, 183);
 }
